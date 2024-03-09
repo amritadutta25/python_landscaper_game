@@ -75,7 +75,6 @@ while (player['winStatus'] == False):
             player['winStatus'] = False
             player['money'] = 0
             player['tool'] = 0
-            continue
 
         if (response == 'q'):
             break
